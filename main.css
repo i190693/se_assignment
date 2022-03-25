@@ -1,0 +1,16 @@
+.flx {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: left;
+}
+.mbs {
+  margin-bottom: 10px;
+}
+.typ {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px;
+  padding: 10px;
+}
